@@ -1,1 +1,1 @@
-# IkomaLab
+# LabIkoma
